@@ -8,7 +8,16 @@
       "pr_url": null,
       "is_baseline": true,
       "submitted_at": "2024-01-01T00:00:00Z"
+    },
+    {
+      "username": "SubhajitDolai",
+      "r2_score": 0.818843,
+      "pr_number": 1,
+      "pr_url": "https://github.com/SubhajitDolai/admission-prediction/pull/1",
+      "submitted_at": "2026-04-26T15:38:27.364166Z",
+      "is_baseline": false,
+      "rank": 2
     }
   ],
-  "last_updated": "2024-01-01T00:00:00Z"
+  "last_updated": "2026-04-26T15:38:27.364177Z"
 }
