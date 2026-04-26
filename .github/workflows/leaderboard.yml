@@ -31,7 +31,7 @@ jobs:
       - name: Run Notebook and extract score
         id: compute
         run: |
-          cd 'pr-branch/Getting Admission in College Prediction'
+          cd pr-branch
           # We execute the notebook and save to a temporary output ipynb
           jupyter nbconvert --to notebook --execute "Admission prediction.ipynb" --output "Executed_Admission_prediction.ipynb"
           
