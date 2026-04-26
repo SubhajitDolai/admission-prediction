@@ -51,6 +51,7 @@ jobs:
         with:
           ref: main
           path: 'main-branch'
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update Leaderboard JSON
         run: |
