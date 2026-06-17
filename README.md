@@ -197,7 +197,7 @@ jupyter notebook Admission_prediction.ipynb
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
 | Layer | Technology |
 |-------|-----------|
